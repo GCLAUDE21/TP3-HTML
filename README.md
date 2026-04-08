@@ -2,6 +2,10 @@
 
 Exercice de mise en page réalisé dans le cadre de ma formation Développeur Web.
 
+## Demo live
+
+[Voir la page](https://gclaude21.github.io/TP3-HTML/)
+
 ## Objectif
 
 Reproduire fidèlement une maquette fournie en HTML et CSS pur, puis rendre la page entièrement responsive sur mobile, tablette et desktop.
